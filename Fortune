@@ -1,0 +1,14 @@
+let one="you will travel far and wide both for pleasure and business"
+let two="the secret of gettin gahead is getting started"
+let three="you will be invited to an exciting event"
+
+function Fortune(one, two, three){
+        if (one==="you will travel far and wide both for pleasure and business") {
+            console.log(one);
+    } else if (two==="the secret of gettin gahead is getting started") {
+            console.log(two);
+    } else (three==="you will be invited to an exciting event"); {
+            console.log(three); }
+        }
+
+        Fortune(one);

@@ -1,0 +1,14 @@
+let one=prompt(["you will travel far and wide both for pleasure and business",
+"the secret of gettin gahead is getting started",
+"you will be invited to an exciting event"]);
+
+function Fortune(one){
+    if (one[0]==="you will travel far and wide both for pleasure and business") {
+        console.log(one[0]);
+} else if (one[1]==="the secret of gettin gahead is getting started") {
+        console.log(one[1]);
+} else (one[2]==="you will be invited to an exciting event");{
+        console.log(one[2]); }
+}
+
+Fortune(one[2]);
